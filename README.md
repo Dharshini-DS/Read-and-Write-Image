@@ -75,25 +75,24 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-![exp 1 a ds](https://user-images.githubusercontent.com/93427345/225527081-216e7b15-f847-48a2-ad19-6450a8ad1e15.png)
 
+![exp1a](https://user-images.githubusercontent.com/93427345/225704699-41fa3530-49b1-444c-9e67-b61123c8fbf2.png)
 
 ### ii)Write the image
-![exp 1 a ds](https://user-images.githubusercontent.com/93427345/225527186-1eb9b612-6c17-4638-81eb-df120c81a3a3.png)
 
+![exp1a](https://user-images.githubusercontent.com/93427345/225704794-ed8a26bb-fff6-4cef-9fa6-c292191796af.png)
 
 ### iii)Shape of the Image
 
-![exp 1b ds](https://user-images.githubusercontent.com/93427345/225527269-bb8930f2-db73-497c-943d-a43f01f9328f.png)
-
+![exp1b](https://user-images.githubusercontent.com/93427345/225704861-31b2ecdd-5bbc-4b88-a6fd-c1dbcd761a24.png)
 
 ### iv)Access rows and columns
 
-![exp1c ds](https://user-images.githubusercontent.com/93427345/225527308-273744b9-a63b-4772-9088-4a7b16b21a41.png)
+![exp1c](https://user-images.githubusercontent.com/93427345/225704954-8458c424-1bcc-41d3-bd9b-3143defe0209.png)
 
 ### v)Cut and paste portion of image
-![exp 1d ds](https://user-images.githubusercontent.com/93427345/225527363-8ee50091-3e91-45e1-b318-2ee824fdd548.png)
 
+![exp1d](https://user-images.githubusercontent.com/93427345/225705006-e368b2b0-6d15-4b80-8b05-73f874aa6903.png)
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
