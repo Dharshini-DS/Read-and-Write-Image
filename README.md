@@ -55,6 +55,7 @@ v) #To cut and paste portion of image
 ## Output:
 
 ### i) Read and display the image
+![output](./exp 1 a ds.png)
 
 <br>
 <br>
