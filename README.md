@@ -54,7 +54,7 @@ A=cv2.imread("img1.png",1)
 for i in range(100):
     for j in range(A.shape[1]):
         A[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
-cv2.imshow("212221240002",A)
+cv2.imshow("212221230022",A)
 cv2.waitKey(0)
 
 
